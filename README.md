@@ -1,5 +1,5 @@
 # IRCClient
-An extensible IRC library written in C# with some Twitch CAP support
+An extensible IRC library written in C# with some Twitch.tv CAP support
 
 Example:
 ```cs
